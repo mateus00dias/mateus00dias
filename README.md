@@ -1,6 +1,7 @@
 # 💫 About Me:
 📚Atuamente estou no 7/8° periodo do curso Bacharelado em Sistemas de Informação IFMG SJE
 
+![snake gif](https://github.com/mateus00dias/mateus00dias/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mateus00dias) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateus00dias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus00dias) 
@@ -18,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mateus00dias&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/mateus00dias/mateus00dias/blob/output/github-contribution-grid-snake.svg)
