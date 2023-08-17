@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-📚Atuamente estou no 7/8° periodo do curso Bacharelado em Sistemas de Informação IFMG SJE
+📚Atuamente estou no 8/8° periodo do curso Bacharelado em Sistemas de Informação IFMG SJE
 
 ✍"Enquanto houver aqueles que se lembram como era, haverá sempre aqueles que são incapazes de aceitar o que deveria ser."
 
