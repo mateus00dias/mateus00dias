@@ -3,7 +3,12 @@ Graduado em Bacharelado em Sistemas de Informação IFMG SJE
 
 ✍"Enquanto houver aqueles que se lembram como era, haverá sempre aqueles que são incapazes de aceitar o que deveria ser."
 
-![Snake animation](./dist/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateus00dias/mateus00dias/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateus00dias/mateus00dias/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mateus00dias/mateus00dias/output/github-snake.svg" />
+</picture>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mateus00dias) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateus00dias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus00dias) 
